@@ -7,7 +7,7 @@
 -   Vendas em relação ao preço do óleo
 -   Vendas em comparação com diferentes tipos de feriados
 
-1.  **Otimização de Parâmetros para SARIMAX**: Empregaria técnicas avançadas para identificar os melhores parâmetros para o modelo SARIMAX, com base nos dados disponíveis, garantindo assim um modelo mais refinado e possivelmente mais preciso.
+2.  **Otimização de Parâmetros para SARIMAX**: Empregaria técnicas avançadas para identificar os melhores parâmetros para o modelo SARIMAX, com base nos dados disponíveis, garantindo assim um modelo mais refinado e possivelmente mais preciso.
 
 **Razões para Descontinuação:**
 
